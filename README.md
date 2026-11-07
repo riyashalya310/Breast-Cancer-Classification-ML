@@ -122,6 +122,6 @@ Upload the labelled test dataset, select a trained model, and view the model's e
 
 ## 10. Links
 
-- **GitHub Repository:** To be added
-- **Live Streamlit Application:** To be added
+- **GitHub Repository:** https://github.com/riyashalya310/Breast-Cancer-Classification-ML
+- **Live Streamlit Application:** https://breast-cancer-classification-ml.streamlit.app/
 - **BITS Virtual Lab Execution Screenshot:** To be included in the final assignment PDF
